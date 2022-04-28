@@ -51,6 +51,7 @@ class Main :AppCompatActivity(){
  *              Since we are using a fragment, the main activity is just a holder for the fragment that will be displayed.
  *              FragmentExampleController will host UI controls (button listener logic)
  *
+ * Step 4 - Notated in the Fragment class
  *
  *
  * */
